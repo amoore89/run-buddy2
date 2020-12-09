@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://amoore89.github.io/run-budd2y/
+https://amoore89.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by [Avery Moore]
